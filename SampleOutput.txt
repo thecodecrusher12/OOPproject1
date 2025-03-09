@@ -1,0 +1,192 @@
+---------------------------------
+
+? Average Rating for 'Interstellar': 4.766666730244954
+
+---------------------------------
+? Episode modified successfully: Cat's in the Bag... (Updated)
+
+? All Content Details:
+
+---------------------------------
+
+---------------------------------
+Content ID: 13
+Title: Interstellar
+Primary Genre: Sci-Fi
+Director: Christopher Nolan
+Average Rating: 0.0
+Number of Ratings: 3
+Actors: Matthew McConaughey, Anne Hathaway, Jessica Chastain
+Duration: 169 minutes
+
+---------------------------------
+Content ID: 13
+Title: Mad Max: Fury Road
+Primary Genre: Action
+Director: George Miller
+Average Rating: 0.0
+Number of Ratings: 2
+Actors: 
+Duration: 120 minutes
+
+---------------------------------
+Content ID: 13
+Title: The Dark Knight
+Primary Genre: Action
+Director: Christopher Nolan
+Average Rating: 0.0
+Number of Ratings: 3
+Actors: Christian Bale, Heath Ledger, Gary Oldman
+Duration: 152 minutes
+
+---------------------------------
+Content ID: 13
+Title: Inception
+Primary Genre: Sci-Fi
+Director: Christopher Nolan
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page
+Duration: 148 minutes
+
+---------------------------------
+Content ID: 13
+Title: Gladiator
+Primary Genre: Drama
+Director: Ridley Scott
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: 
+Duration: 155 minutes
+
+---------------------------------
+Content ID: 13
+Title: The Matrix
+Primary Genre: Sci-Fi
+Director: The Wachowskis
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: 
+Duration: 136 minutes
+
+---------------------------------
+Content ID: 13
+Title: John Wick
+Primary Genre: Action
+Director: Chad Stahelski
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: 
+Duration: 101 minutes
+
+---------------------------------
+Content ID: 13
+Title: Avengers: Endgame
+Primary Genre: Superhero
+Director: Anthony & Joe Russo
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: 
+Duration: 181 minutes
+
+---------------------------------
+Content ID: 13
+Title: The Godfather
+Primary Genre: Crime
+Director: Francis Ford Coppola
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: Marlon Brando, Al Pacino, James Caan
+Duration: 175 minutes
+
+---------------------------------
+Content ID: 13
+Title: Joker
+Primary Genre: Crime
+Director: Todd Phillips
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: 
+Duration: 122 minutes
+
+---------------------------------
+Content ID: 13
+Title: Breaking Bad
+Primary Genre: Crime
+Director: Vince Gilligan
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: Bryan Cranston, Aaron Paul, Anna Gunn
+Seasons: 2
+Season 1: Pilot, Cat's in the Bag... (Updated)
+Season 2: Seven Thirty-Seven, Grilled
+
+---------------------------------
+Content ID: 13
+Title: Stranger Things
+Primary Genre: Sci-Fi
+Director: Duffer Brothers
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: Winona Ryder, David Harbour, Millie Bobby Brown
+Seasons: 3
+Season 1: The Vanishing of Will Byers, The Weirdo on Maple Street
+Season 2: Madmax
+Season 3: Suzie, Do You Copy?, The Mall Rats
+
+---------------------------------
+Content ID: 13
+Title: The Witcher
+Primary Genre: Fantasy
+Director: Lauren Schmidt Hissrich
+Average Rating: 0.0
+Number of Ratings: 0
+Actors: Henry Cavill, Freya Allan, Anya Chalotra
+Seasons: 1
+Season 1: The End's Beginning, Four Marks, Betrayer Moon
+
+---------------------------------
+alice@example.com watched Interstellar
+alice@example.com watched Breaking Bad
+bob@example.com watched Mad Max: Fury Road
+bob@example.com watched Stranger Things
+charlie@example.com watched The Dark Knight
+charlie@example.com watched Breaking Bad
+charlie@example.com watched Stranger Things
+
+---------------------------------
+? Email: alice@example.com
+? Subscription Plan: Basic
+? Price: $7.99 per month
+? Max Screens: 1
+? Active Status: Active
+? Favorite Genres: None
+? Watch History:
+- Interstellar
+- Breaking Bad
+
+---------------------------------
+? Email: bob@example.com
+? Subscription Plan: Standard
+? Price: $15.49 per month
+? Max Screens: 2
+? Active Status: Deactivated
+? Favorite Genres: None
+? Watch History:
+- Mad Max: Fury Road
+- Stranger Things
+
+---------------------------------
+? Email: charlie@example.com
+? Subscription Plan: Premium
+? Price: $22.99 per month
+? Max Screens: 4
+? Active Status: Active
+? Favorite Genres: None
+? Watch History:
+- The Dark Knight
+- Breaking Bad
+- Stranger Things
+Movies Recommended for Subscriber bob@example.com
+- Mad Max: Fury Road (? 4.799999952316284)
+- Interstellar (? 4.766666730244954)
